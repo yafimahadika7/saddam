@@ -1,4 +1,4 @@
 <?php
-$conn = mysqli_connect("localhost","root","","atm_sparepart");
+$conn = mysqli_connect("localhost","root","janganangel","atm_sparepart");
 if(!$conn){
     die("Koneksi database gagal");}

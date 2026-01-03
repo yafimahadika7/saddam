@@ -1,4 +1,3 @@
-CREATE DATABASE atm_sparepart;
 USE atm_sparepart;
 
 CREATE TABLE user (
